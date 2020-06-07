@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 file /tmp/iamafile
-=======
-file /tmp/iamafile
->>>>>>> 5b39b18068c86da5a1137dd9ad2d304315f42f01
